@@ -18,5 +18,5 @@ gulp.task('css',function(){
  	this.emit('end');
  })
  .pipe(gulp.dest('./app/temp/styles'));
- console.log("CSS files are have been saved!");
+ console.log("CSS files have been saved!");
 })
