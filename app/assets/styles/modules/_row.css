@@ -115,7 +115,7 @@
   }
 }
 
-.flexbox &--equal-height-at-large{
+ &--equal-height-at-large{
   @mixin atLarge {
     display: flex;
   }

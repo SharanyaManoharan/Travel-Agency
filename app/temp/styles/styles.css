@@ -883,7 +883,7 @@ a {
 
 @media (min-width: 1010px){
 
-.flexbox .row--equal-height-at-large{
+.row--equal-height-at-large{
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex
@@ -891,7 +891,7 @@ a {
 
 	}
 
-.flexbox .row--equal-height-at-large > div {
+.row--equal-height-at-large > div {
     float: none;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -1028,7 +1028,7 @@ a {
 	}
 
 .testimonial--last {
-	margin-bottom: 0;
+	margin-bottom: 10;
 }
 
 .testimonial__photo{
